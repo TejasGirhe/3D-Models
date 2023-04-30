@@ -1,0 +1,11 @@
+Model Information:
+* title:	rusty lock FREE
+* source:	https://sketchfab.com/3d-models/rusty-lock-free-63a7bb7cff96479f918bad28abd9b0b5
+* author:	BrightMemories.Irina.Moiseeva (https://sketchfab.com/BrightMemories.Irina.Moiseeva)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "rusty lock FREE" (https://sketchfab.com/3d-models/rusty-lock-free-63a7bb7cff96479f918bad28abd9b0b5) by BrightMemories.Irina.Moiseeva (https://sketchfab.com/BrightMemories.Irina.Moiseeva) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

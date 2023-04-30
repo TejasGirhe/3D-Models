@@ -1,0 +1,11 @@
+Model Information:
+* title:	umbrella
+* source:	https://sketchfab.com/3d-models/umbrella-1fe6b21b449140398d7b1d9eb75f0182
+* author:	mugislan (https://sketchfab.com/mugislan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "umbrella" (https://sketchfab.com/3d-models/umbrella-1fe6b21b449140398d7b1d9eb75f0182) by mugislan (https://sketchfab.com/mugislan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

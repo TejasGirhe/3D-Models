@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plain Zebra
+* source:	https://sketchfab.com/3d-models/plain-zebra-ff2875fb1a5b4771805a5fd35c8fe7bb
+* author:	GentryHS EAST (https://sketchfab.com/gentryhsEAST)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plain Zebra" (https://sketchfab.com/3d-models/plain-zebra-ff2875fb1a5b4771805a5fd35c8fe7bb) by GentryHS EAST (https://sketchfab.com/gentryhsEAST) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Avocado
+* source:	https://sketchfab.com/3d-models/avocado-4aa6b5d822204151805c3d2a423782a6
+* author:	Qlone (https://sketchfab.com/Qlone)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Avocado" (https://sketchfab.com/3d-models/avocado-4aa6b5d822204151805c3d2a423782a6) by Qlone (https://sketchfab.com/Qlone) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Opel Blitz Truck
+* source:	https://sketchfab.com/3d-models/opel-blitz-truck-9fedd4afac6d400884b90a95451a4835
+* author:	lokeig (https://sketchfab.com/lokeig)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Opel Blitz Truck" (https://sketchfab.com/3d-models/opel-blitz-truck-9fedd4afac6d400884b90a95451a4835) by lokeig (https://sketchfab.com/lokeig) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
